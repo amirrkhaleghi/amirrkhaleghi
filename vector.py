@@ -1,3 +1,4 @@
+import math
 class Vector:
 
     def __init__(self, x0, y0, x1, y1):
